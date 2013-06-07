@@ -1,0 +1,9 @@
+Origin: XBian
+Package: xbian-package-sickbeard
+Version: 1.2
+Section: net
+Priority: optional
+Architecture: armhf
+Depends: xbian-package-sickbeard-tpb
+Maintainer: sjengfred <sjengfred@home.nl>
+Description: Dummy package to update from sickbeard to sickbeard-tpb
